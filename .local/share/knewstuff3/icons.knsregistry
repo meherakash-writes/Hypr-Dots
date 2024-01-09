@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>BigSur-Elegant icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/2098181</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>65</rating>
+  <downloads>998</downloads>
+  <installedfile>/home/meher/.local/share/icons/Black-BigSur-dark/*</installedfile>
+  <installedfile>/home/meher/.local/share/icons/Black-BigSur/*</installedfile>
+  <id>2098181</id>
+  <releasedate>2023-12-31</releasedate>
+  <summary>&lt;strong>Black-elegant Icon Theme&lt;/strong>&lt;br />
+A colorful Design icon theme for linux desktops&lt;br />
+Full set of dark icons with green light source on dark background.&lt;br />
+&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/2098181/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/2098181/logo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDQwNDE5NDIiLCJvIjoiMSIsInMiOiI4YjIxMTQ3MTQ3ZmRmZGQzYTFhNjA1MTk1MTU3ZDM0OGU0ZmMzZGRiZTY0YjM4MDA4ZWQ0MDczOWZkYzQ4NTQ2ZmZhMjE3NGVjYTM1ODk0MmY5YjI2MDBhODYxODkxZTg1MTJjMTk0NTc0YjBhMmJmMWJlZGVjOWVhZWY2MGY3MSIsInQiOjE3MDQ3MzI2MDUsInN0ZnAiOm51bGwsInN0aXAiOiIxMjIuMTYxLjUxLjE5OCJ9.xyWXxivEPzJ4UN2_MhSxFutt1KIZADJPzXIW9ldeaco/Black-BigSur.tar.xz</payload>
+  <tags>original-product,gplv3,unix,icon-theme,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>DeepMacOS IconTheme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>mirabellalorenzo</author>
+  <homepage>https://store.kde.org/p/2104775</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>2670</downloads>
+  <installedfile>/home/meher/.local/share/icons/DeepMacOS-IconTheme/*</installedfile>
+  <id>2104775</id>
+  <releasedate>2023-11-10</releasedate>
+  <summary>This is a FULL Icon Theme based on Adwaita with icons of MacOS and folders of Deepin.&lt;br />
+&lt;br />
+If you LIKE this Icon Theme, please leave a STAR! &amp;lt;3&lt;br />
+&lt;br />
+For issues text me here: mirabellalorenzo03@gmail.com&lt;br />
+&lt;br />
+&lt;br />
+# Setup&lt;br />
+&lt;br />
+1) Install Gnome-Tweaks&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/74/83/61/2104775/schermata-del-2023-11-09-15-43-14-min.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/74/83/61/2104775/schermata-del-2023-11-09-15-43-14-min.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTk2MDc1MjAiLCJvIjoiMSIsInMiOiI2ZGI1ZWFjN2ZlOGU1NTYxZTg4ODU2ODFiNTFmNTAyMTlhNjU1YjdkYmVkOGJjMzM0ODM3MDg1OTUzNTdiMDU3ZGNjYzQ1MDg5ZDQ2OGMzYjQ0ZjQxMTkzMWMwNWE4NDIzZTBlNTI0N2IyZTYxMDBiOWQ5NmJkNmM2OGE4MTcxZCIsInQiOjE3MDQ3MzI2MDAsInN0ZnAiOm51bGwsInN0aXAiOiIxMjIuMTYxLjUxLjE5OCJ9.XT-GbcCs1e8PokhDDVMmNqjzE4ysNqUgvI-nBz-aG64/DeepMacOS-IconTheme.tar.xz</payload>
+  <tags>fedoraicontheme,gplv3,gnomeicontheme,icon-theme,macosicons,macosicontheme,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

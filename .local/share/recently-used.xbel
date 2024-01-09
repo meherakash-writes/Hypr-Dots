@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/meher/Downloads/K-Dots-main.zip" added="2024-01-08T14:47:02.733789Z" modified="2024-01-08T14:47:02.733808Z" visited="2024-01-08T14:47:02.733792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-08T14:47:02.733797Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/K-Dots-main/install.sh" added="2024-01-08T14:47:25.940000Z" modified="2024-01-08T14:48:08.423000Z" visited="2024-01-08T14:48:08.423000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2024-01-08T14:48:08.423000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/Nya.png" added="2024-01-08T15:09:42.567359Z" modified="2024-01-08T15:09:57.208000Z" visited="2024-01-08T15:09:57.208000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-08T15:09:43.011924Z" count="2"/>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2024-01-08T15:09:57.208000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/K-Dots-nya.zip" added="2024-01-08T15:14:12.705045Z" modified="2024-01-08T15:14:12.705078Z" visited="2024-01-08T15:14:12.705049Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-08T15:14:12.705063Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/K-Dots-nya/wall/Rock.jpeg" added="2024-01-08T15:15:00.818000Z" modified="2024-01-08T15:15:00.818000Z" visited="2024-01-08T15:15:00.818000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2024-01-08T15:15:00.818000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/.config/kitty/kitty.conf" added="2024-01-08T15:25:40.889000Z" modified="2024-01-08T15:25:40.889000Z" visited="2024-01-08T15:25:40.889000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2024-01-08T15:25:40.889000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/K-Dots-nya/wall/Shore.png" added="2024-01-08T15:30:18.812000Z" modified="2024-01-08T15:30:18.812000Z" visited="2024-01-08T15:30:18.812000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2024-01-08T15:30:18.812000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/K-Dots-nya/wall/Fly0.jpg" added="2024-01-08T15:30:26.617000Z" modified="2024-01-08T15:30:26.617000Z" visited="2024-01-08T15:30:26.617000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2024-01-08T15:30:26.617000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/" added="2024-01-08T15:33:02.430000Z" modified="2024-01-08T15:33:02.430000Z" visited="2024-01-08T15:33:02.430000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u %u" modified="2024-01-08T15:33:02.430000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/.config/hypr/autostart" added="2024-01-08T17:39:55.740117Z" modified="2024-01-08T17:39:55.740124Z" visited="2024-01-08T17:39:55.740118Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;kate -b %U&apos;" modified="2024-01-08T17:39:55.740120Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/.scripts/wall" added="2024-01-08T17:44:45.883850Z" modified="2024-01-08T17:44:45.883855Z" visited="2024-01-08T17:44:45.883851Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;kate -b %U&apos;" modified="2024-01-08T17:44:45.883853Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/Gnome-Dots-main.zip" added="2024-01-08T18:59:49.948467Z" modified="2024-01-08T19:00:42.641942Z" visited="2024-01-08T18:59:49.948470Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-08T18:59:49.948478Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;ark %U&apos;" modified="2024-01-08T19:00:42.641940Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher" added="2024-01-08T19:01:01.839000Z" modified="2024-01-09T11:26:50.243000Z" visited="2024-01-09T11:26:50.243000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2024-01-09T11:26:50.243000Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/Anime-Wallpaper-master.zip" added="2024-01-08T19:05:26.452962Z" modified="2024-01-08T19:07:45.055992Z" visited="2024-01-08T19:06:42.342000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-08T19:05:26.452967Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-01-08T19:06:42.342000Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;ark %U&apos;" modified="2024-01-08T19:07:45.055991Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main.zip" added="2024-01-08T19:09:36.193640Z" modified="2024-01-09T07:58:43.177740Z" visited="2024-01-08T19:09:36.195628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-08T19:09:36.195633Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;ark %U&apos;" modified="2024-01-09T07:58:43.177737Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/.config/waybar/config.jsonc" added="2024-01-08T19:10:53.774818Z" modified="2024-01-08T19:13:44.961410Z" visited="2024-01-08T19:10:53.774819Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;kate -b %U&apos;" modified="2024-01-08T19:13:44.961408Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/walls-main.zip" added="2024-01-08T19:18:27.436910Z" modified="2024-01-08T19:29:31.566125Z" visited="2024-01-08T19:18:27.436921Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-08T19:18:27.436925Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;ark %U&apos;" modified="2024-01-08T19:29:31.566121Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/00.png" added="2024-01-08T19:31:17.393745Z" modified="2024-01-08T19:31:17.393750Z" visited="2024-01-08T19:31:17.393746Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:31:17.393747Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/0qwm7q2as41a1.jpg" added="2024-01-08T19:31:30.606505Z" modified="2024-01-08T19:31:30.606511Z" visited="2024-01-08T19:31:30.606506Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:31:30.606508Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/01.png" added="2024-01-08T19:31:35.537587Z" modified="2024-01-08T19:31:35.537591Z" visited="2024-01-08T19:31:35.537588Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:31:35.537589Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/1iNNHqP.jpeg" added="2024-01-08T19:31:38.824163Z" modified="2024-01-08T19:31:38.824179Z" visited="2024-01-08T19:31:38.824165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:31:38.824169Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/1kIhwGj.jpeg" added="2024-01-08T19:31:41.976951Z" modified="2024-01-08T19:31:41.976963Z" visited="2024-01-08T19:31:41.976952Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:31:41.976957Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/02.png" added="2024-01-08T19:31:48.123234Z" modified="2024-01-08T19:31:48.123240Z" visited="2024-01-08T19:31:48.123235Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:31:48.123237Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/2%20-%203QPUW4E.png" added="2024-01-08T19:31:52.131452Z" modified="2024-01-08T19:31:52.131472Z" visited="2024-01-08T19:31:52.131455Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:31:52.131461Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/02-girl-shibe.png" added="2024-01-08T19:31:57.086648Z" modified="2024-01-08T19:31:57.086652Z" visited="2024-01-08T19:31:57.086649Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:31:57.086650Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/03.png" added="2024-01-08T19:32:03.189914Z" modified="2024-01-08T19:32:03.189921Z" visited="2024-01-08T19:32:03.189915Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:03.189917Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/3lqIfoS.jpeg" added="2024-01-08T19:32:09.722569Z" modified="2024-01-08T19:32:09.722582Z" visited="2024-01-08T19:32:09.722570Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:09.722579Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/3QI5aHw.png" added="2024-01-08T19:32:13.190257Z" modified="2024-01-08T19:32:13.190265Z" visited="2024-01-08T19:32:13.190258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:13.190260Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/04.png" added="2024-01-08T19:32:17.506480Z" modified="2024-01-08T19:32:17.506488Z" visited="2024-01-08T19:32:17.506481Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:17.506483Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/4aa9e0421406e0d61d427edca9b2432c.jpg" added="2024-01-08T19:32:22.876903Z" modified="2024-01-08T19:32:22.876910Z" visited="2024-01-08T19:32:22.876904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:22.876906Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/4MHOMvU.jpeg" added="2024-01-08T19:32:27.577082Z" modified="2024-01-08T19:32:27.577090Z" visited="2024-01-08T19:32:27.577083Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:27.577086Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/4%20-%20TVaNulD.png" added="2024-01-08T19:32:35.426547Z" modified="2024-01-08T19:32:35.426554Z" visited="2024-01-08T19:32:35.426548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:35.426550Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/4X3z4Ha.jpeg" added="2024-01-08T19:32:39.734754Z" modified="2024-01-08T19:32:39.734761Z" visited="2024-01-08T19:32:39.734755Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:39.734757Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/05.png" added="2024-01-08T19:32:43.450088Z" modified="2024-01-08T19:32:43.450095Z" visited="2024-01-08T19:32:43.450089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:43.450091Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/5a1c8031-3c4e-4b2e-96ef-5b17d8c1c948.jpg" added="2024-01-08T19:32:47.305326Z" modified="2024-01-08T19:32:47.305344Z" visited="2024-01-08T19:32:47.305329Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:47.305335Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/5ipkt7tb4cva1.jpg" added="2024-01-08T19:32:51.035366Z" modified="2024-01-08T19:32:51.035375Z" visited="2024-01-08T19:32:51.035367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:51.035370Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/5VUhtaY.jpeg" added="2024-01-08T19:32:55.691227Z" modified="2024-01-08T19:32:55.691233Z" visited="2024-01-08T19:32:55.691228Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:55.691231Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/5zQiXen.png" added="2024-01-08T19:32:58.619901Z" modified="2024-01-08T19:32:58.619908Z" visited="2024-01-08T19:32:58.619902Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:32:58.619906Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/06.png" added="2024-01-08T19:33:01.589091Z" modified="2024-01-08T19:33:01.589132Z" visited="2024-01-08T19:33:01.589095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:33:01.589114Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/06-anime-girl-smile.png" added="2024-01-08T19:33:07.727005Z" modified="2024-01-08T19:33:07.727016Z" visited="2024-01-08T19:33:07.727007Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:33:07.727010Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/6zYby1m.png" added="2024-01-08T19:33:13.678361Z" modified="2024-01-08T19:33:13.678367Z" visited="2024-01-08T19:33:13.678362Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:33:13.678364Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/07.png" added="2024-01-08T19:33:18.439456Z" modified="2024-01-08T19:33:18.439466Z" visited="2024-01-08T19:33:18.439458Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:33:18.439461Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/7bkefhjp4um91.jpg" added="2024-01-08T19:33:22.355616Z" modified="2024-01-08T19:33:22.355622Z" visited="2024-01-08T19:33:22.355618Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:33:22.355619Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/7K7oRvk.jpeg" added="2024-01-08T19:33:26.085442Z" modified="2024-01-08T19:33:26.085449Z" visited="2024-01-08T19:33:26.085443Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:33:26.085446Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/7%20-%20q6nTfgK.jpg" added="2024-01-08T19:33:35.749230Z" modified="2024-01-08T19:33:35.749235Z" visited="2024-01-08T19:33:35.749231Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:33:35.749233Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/08.png" added="2024-01-08T19:33:44.020895Z" modified="2024-01-08T19:33:44.020901Z" visited="2024-01-08T19:33:44.020896Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:33:44.020898Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/09.png" added="2024-01-08T19:33:46.861475Z" modified="2024-01-08T19:33:46.861480Z" visited="2024-01-08T19:33:46.861476Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:33:46.861477Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/9%20-%20DaFuSO0.jpg" added="2024-01-08T19:33:52.421357Z" modified="2024-01-08T19:33:52.421363Z" visited="2024-01-08T19:33:52.421358Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:33:52.421360Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/9DikRoN.jpeg" added="2024-01-08T19:33:55.127644Z" modified="2024-01-08T19:33:55.127655Z" visited="2024-01-08T19:33:55.127646Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:33:55.127649Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/9s3j5n8eok181.jpg" added="2024-01-08T19:33:57.948869Z" modified="2024-01-08T19:33:57.948873Z" visited="2024-01-08T19:33:57.948869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:33:57.948871Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/9Tej6V0.jpeg" added="2024-01-08T19:34:01.370060Z" modified="2024-01-08T19:34:01.370064Z" visited="2024-01-08T19:34:01.370061Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:01.370062Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/9%20-%20yh71hZN.png" added="2024-01-08T19:34:04.067686Z" modified="2024-01-08T19:34:04.067694Z" visited="2024-01-08T19:34:04.067688Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:04.067692Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/10.png" added="2024-01-08T19:34:08.853206Z" modified="2024-01-08T19:34:08.853215Z" visited="2024-01-08T19:34:08.853208Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:08.853210Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/10%20-%205WcIOl6.jpg" added="2024-01-08T19:34:11.756612Z" modified="2024-01-08T19:34:11.756617Z" visited="2024-01-08T19:34:11.756613Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:11.756615Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/10%20-%20IkFbADX.png" added="2024-01-08T19:34:15.485610Z" modified="2024-01-08T19:34:15.485616Z" visited="2024-01-08T19:34:15.485611Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:15.485613Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/10%20-%20Va8RSAY.jpg" added="2024-01-08T19:34:22.985628Z" modified="2024-01-08T19:34:22.985636Z" visited="2024-01-08T19:34:22.985630Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:22.985633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/11.png" added="2024-01-08T19:34:29.163574Z" modified="2024-01-08T19:34:29.163594Z" visited="2024-01-08T19:34:29.163577Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:29.163586Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/11-anime-farm-girl-windmill.png" added="2024-01-08T19:34:33.629441Z" modified="2024-01-08T19:34:33.629450Z" visited="2024-01-08T19:34:33.629442Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:33.629447Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/11%20-%20GdW27Qi.png" added="2024-01-08T19:34:36.536164Z" modified="2024-01-08T19:34:36.536168Z" visited="2024-01-08T19:34:36.536164Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:36.536166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/11%20-%20hM2j0Vz.jpg" added="2024-01-08T19:34:39.400065Z" modified="2024-01-08T19:34:39.400070Z" visited="2024-01-08T19:34:39.400066Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:39.400068Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/12%20-%20KmFVtFp.png" added="2024-01-08T19:34:44.386862Z" modified="2024-01-08T19:34:44.386866Z" visited="2024-01-08T19:34:44.386863Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:44.386864Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/12%20-%20W2R4s7H.png" added="2024-01-08T19:34:47.552527Z" modified="2024-01-08T19:34:47.552535Z" visited="2024-01-08T19:34:47.552528Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:47.552531Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/13%20-%20HRS9jnT.jpg" added="2024-01-08T19:34:52.015132Z" modified="2024-01-08T19:34:52.015141Z" visited="2024-01-08T19:34:52.015133Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:52.015137Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/13%20-%20p4TIlyS.jpg" added="2024-01-08T19:34:56.428819Z" modified="2024-01-08T19:34:56.428824Z" visited="2024-01-08T19:34:56.428820Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:56.428821Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/14%20-%20BgotbjS.jpg" added="2024-01-08T19:34:59.296199Z" modified="2024-01-08T19:34:59.296208Z" visited="2024-01-08T19:34:59.296203Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:34:59.296205Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/mehercraft-main.zip" added="2024-01-08T19:39:58.353119Z" modified="2024-01-09T11:26:44.662410Z" visited="2024-01-08T19:39:58.353124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-09T11:17:43.288192Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;ark %U&apos;" modified="2024-01-09T11:26:44.662398Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/boo-grub-master.zip" added="2024-01-08T19:42:13.049139Z" modified="2024-01-09T11:18:13.982103Z" visited="2024-01-08T19:42:15.770000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-09T11:17:23.433992Z" count="2"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-01-08T19:42:15.770000Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;ark %U&apos;" modified="2024-01-09T11:18:13.982100Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/tartarus-startpage-master.zip" added="2024-01-08T19:52:17.102951Z" modified="2024-01-08T19:52:31.034372Z" visited="2024-01-08T19:52:17.102952Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-08T19:52:17.102956Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;ark %U&apos;" modified="2024-01-08T19:52:31.034370Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/tartarus-startpage-master/index.html" added="2024-01-08T19:52:57.162804Z" modified="2024-01-08T19:52:57.162808Z" visited="2024-01-08T19:52:57.162804Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-01-08T19:52:57.162806Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/anime/14%20-%20M5yq3il.jpg" added="2024-01-08T19:54:49.892798Z" modified="2024-01-08T19:54:49.892807Z" visited="2024-01-08T19:54:49.892801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-08T19:54:49.892803Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Anime/nice-anime-girl.jpg" added="2024-01-09T07:59:27.577362Z" modified="2024-01-09T07:59:38.012822Z" visited="2024-01-09T07:59:27.577366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T07:59:38.012816Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Anime/girl-shell.jpg" added="2024-01-09T07:59:57.981257Z" modified="2024-01-09T07:59:57.981262Z" visited="2024-01-09T07:59:57.981258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T07:59:57.981260Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Anime/programmer-girl-III.jpg" added="2024-01-09T08:00:05.060230Z" modified="2024-01-09T08:00:13.866046Z" visited="2024-01-09T08:00:05.060232Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T08:00:13.866038Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Aquarium/chess_A.png" added="2024-01-09T08:31:20.134136Z" modified="2024-01-09T08:32:16.141109Z" visited="2024-01-09T08:31:20.134137Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T08:32:16.141105Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Brown/artorsum.png" added="2024-01-09T08:32:42.290738Z" modified="2024-01-09T08:32:42.290743Z" visited="2024-01-09T08:32:42.290739Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:32:42.290741Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Brown/DUNE-DESKTOP-WALLPAPER-4K.png" added="2024-01-09T08:32:48.627566Z" modified="2024-01-09T08:32:48.627575Z" visited="2024-01-09T08:32:48.627567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:32:48.627569Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Cherry%20Blossoms/376365.jpg" added="2024-01-09T08:33:00.560001Z" modified="2024-01-09T08:33:00.560012Z" visited="2024-01-09T08:33:00.560003Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T08:33:00.560010Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Crimson/crimson-Evangeleon.png" added="2024-01-09T08:33:24.414200Z" modified="2024-01-09T08:33:24.414206Z" visited="2024-01-09T08:33:24.414202Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:33:24.414203Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Crimson/wall2.png" added="2024-01-09T08:33:27.394199Z" modified="2024-01-09T08:33:27.394205Z" visited="2024-01-09T08:33:27.394201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:33:27.394202Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Crimson/wallhaven-rd2jw1.png" added="2024-01-09T08:33:30.402692Z" modified="2024-01-09T08:33:30.402700Z" visited="2024-01-09T08:33:30.402693Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:33:30.402696Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Flowers/alisa-anton.jpg" added="2024-01-09T08:34:17.200155Z" modified="2024-01-09T08:34:17.200160Z" visited="2024-01-09T08:34:17.200156Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T08:34:17.200157Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Green/kaori_minimal.png" added="2024-01-09T08:34:34.240784Z" modified="2024-01-09T08:34:34.240790Z" visited="2024-01-09T08:34:34.240785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:34:34.240787Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Gruv/anime-gruv-light.png" added="2024-01-09T08:34:41.566901Z" modified="2024-01-09T08:34:52.350537Z" visited="2024-01-09T08:34:41.566901Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T08:34:52.350530Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Keyboards/hello-i-m-nik.jpg" added="2024-01-09T08:35:57.345123Z" modified="2024-01-09T08:35:57.345130Z" visited="2024-01-09T08:35:57.345124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:35:57.345127Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Lantern/mega-charizard-rainbow-lantern.png" added="2024-01-09T08:36:12.851751Z" modified="2024-01-09T08:36:12.851756Z" visited="2024-01-09T08:36:12.851752Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:36:12.851753Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Monochrome/dark-place.JPG" added="2024-01-09T08:36:52.113773Z" modified="2024-01-09T08:36:52.113778Z" visited="2024-01-09T08:36:52.113774Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T08:36:52.113775Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Nord/charizard-rainbow-nord.png" added="2024-01-09T08:38:12.655195Z" modified="2024-01-09T08:38:12.655202Z" visited="2024-01-09T08:38:12.655197Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:38:12.655199Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Nord/wallpaper.jpg" added="2024-01-09T08:38:16.513567Z" modified="2024-01-09T08:38:16.768499Z" visited="2024-01-09T08:38:16.513568Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:38:16.768496Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Nord/nord-aquarium.png" added="2024-01-09T08:38:26.932001Z" modified="2024-01-09T08:38:26.932005Z" visited="2024-01-09T08:38:26.932002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:38:26.932003Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Pixelart/gruvbox_image4.png" added="2024-01-09T08:38:49.980278Z" modified="2024-01-09T08:38:49.980282Z" visited="2024-01-09T08:38:49.980279Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:38:49.980280Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Pixelart/gruvbox_image44.png" added="2024-01-09T08:38:56.370566Z" modified="2024-01-09T08:38:56.370571Z" visited="2024-01-09T08:38:56.370567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T08:38:56.370569Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/wallpapers-main/Universal/above-the-mountains.png" added="2024-01-09T08:39:23.352067Z" modified="2024-01-09T08:39:23.352072Z" visited="2024-01-09T08:39:23.352068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T08:39:23.352070Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/.config/hypr/wallpapers/1kIhwGj.jpeg" added="2024-01-09T09:25:44.756292Z" modified="2024-01-09T09:25:44.756296Z" visited="2024-01-09T09:25:44.756292Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T09:25:44.756294Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/.config/hypr/wallpapers/00.png" added="2024-01-09T09:26:34.894554Z" modified="2024-01-09T09:32:05.906727Z" visited="2024-01-09T09:26:34.894555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T09:32:05.906721Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/.config/hypr/wallpapers/2.jpg" added="2024-01-09T09:26:42.031344Z" modified="2024-01-09T09:26:42.031360Z" visited="2024-01-09T09:26:42.031353Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T09:26:42.031356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/.config/hypr/wallpapers/2%20-%203QPUW4E.png" added="2024-01-09T09:26:47.133111Z" modified="2024-01-09T09:26:47.133115Z" visited="2024-01-09T09:26:47.133112Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T09:26:47.133113Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/painting/4RFJhJW.png" added="2024-01-09T09:36:11.933661Z" modified="2024-01-09T09:36:11.933674Z" visited="2024-01-09T09:36:11.933662Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;okular %U&apos;" modified="2024-01-09T09:36:11.933664Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/painting/1588340899608.jpg" added="2024-01-09T09:38:47.222663Z" modified="2024-01-09T09:38:47.222668Z" visited="2024-01-09T09:38:47.222664Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T09:38:47.222665Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/painting/hypnosis-sascha-schneider.png" added="2024-01-09T09:39:12.172329Z" modified="2024-01-09T09:39:12.172339Z" visited="2024-01-09T09:39:12.172330Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T09:39:12.172334Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/wave/aesthetic-vaporwave-wallpaper-69a038bdd13a2d9ba6b7083fb0c1b64d.png" added="2024-01-09T09:41:27.388977Z" modified="2024-01-09T09:41:27.388993Z" visited="2024-01-09T09:41:27.388979Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T09:41:27.388984Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/unsorted/0DzbVUBy-wallha.com.jpg" added="2024-01-09T09:41:46.769192Z" modified="2024-01-09T09:41:46.769197Z" visited="2024-01-09T09:41:46.769193Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T09:41:46.769195Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/spam/car.png" added="2024-01-09T09:50:07.888460Z" modified="2024-01-09T09:50:07.888464Z" visited="2024-01-09T09:50:07.888461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T09:50:07.888462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/spam/street.png" added="2024-01-09T09:50:28.616418Z" modified="2024-01-09T09:50:28.616422Z" visited="2024-01-09T09:50:28.616419Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T09:50:28.616420Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/radium/output-1659958136.png" added="2024-01-09T09:50:57.252797Z" modified="2024-01-09T09:50:57.252806Z" visited="2024-01-09T09:50:57.252798Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T09:50:57.252801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/nord/5.png" added="2024-01-09T09:52:40.653996Z" modified="2024-01-09T09:52:40.654002Z" visited="2024-01-09T09:52:40.653997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T09:52:40.654000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/nature/2.jpg" added="2024-01-09T09:58:59.937080Z" modified="2024-01-09T09:58:59.937084Z" visited="2024-01-09T09:58:59.937081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T09:58:59.937082Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/calm/1%20-%20X6h0EuY.jpg" added="2024-01-09T10:02:31.111334Z" modified="2024-01-09T10:02:31.111341Z" visited="2024-01-09T10:02:31.111335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:02:31.111337Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/abstract/8e5mgubkb7791.jpg" added="2024-01-09T10:06:45.830568Z" modified="2024-01-09T10:06:45.830572Z" visited="2024-01-09T10:06:45.830569Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:06:45.830570Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/aerial/0003adef2077d0934e691e48482106df.jpg" added="2024-01-09T10:09:02.763646Z" modified="2024-01-09T10:09:02.763653Z" visited="2024-01-09T10:09:02.763648Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:09:02.763650Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/dreamcore/0e3625e5d5bde6b6121d4fde3965296f.jpg" added="2024-01-09T10:10:42.488877Z" modified="2024-01-09T10:10:42.488882Z" visited="2024-01-09T10:10:42.488878Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:10:42.488880Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/m-26.jp/01.jpg" added="2024-01-09T10:12:39.239223Z" modified="2024-01-09T10:12:39.239230Z" visited="2024-01-09T10:12:39.239224Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:12:39.239227Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/manga/1CzsXnD.jpeg" added="2024-01-09T10:16:06.131403Z" modified="2024-01-09T10:16:06.131411Z" visited="2024-01-09T10:16:06.131405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:16:06.131409Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/minimal/3naa2boj9rd81.png" added="2024-01-09T10:18:21.670449Z" modified="2024-01-09T10:18:21.670454Z" visited="2024-01-09T10:18:21.670450Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:18:21.670451Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/mountain/5.jpg" added="2024-01-09T10:20:54.076822Z" modified="2024-01-09T10:20:54.076845Z" visited="2024-01-09T10:20:54.076825Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:20:54.076831Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/mountain/wallhaven-o3qol5.jpg" added="2024-01-09T10:23:10.086311Z" modified="2024-01-09T10:23:10.086314Z" visited="2024-01-09T10:23:10.086311Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:23:10.086313Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/girl/8%20-%20HYLYhaH.jpg" added="2024-01-09T10:25:22.300541Z" modified="2024-01-09T10:25:22.300559Z" visited="2024-01-09T10:25:22.300546Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:25:22.300552Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/basalt/basalt.jpg" added="2024-01-09T10:25:42.749768Z" modified="2024-01-09T10:25:42.749775Z" visited="2024-01-09T10:25:42.749769Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:25:42.749772Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/chillop/1lzvgynmmpw81.jpg" added="2024-01-09T10:26:19.484927Z" modified="2024-01-09T10:26:19.484932Z" visited="2024-01-09T10:26:19.484928Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:26:19.484930Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/cold/andrea-ferrario-3BfFa7rwqwM-unsplash.jpg" added="2024-01-09T10:27:43.956286Z" modified="2024-01-09T10:27:43.956291Z" visited="2024-01-09T10:27:43.956287Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:27:43.956288Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/cherry/cherry-blossom-white.jpg" added="2024-01-09T10:29:35.308933Z" modified="2024-01-09T10:29:35.308937Z" visited="2024-01-09T10:29:35.308934Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:29:35.308935Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/evangelion/502021-computer-serial.jpg" added="2024-01-09T10:30:14.577854Z" modified="2024-01-09T10:30:14.577888Z" visited="2024-01-09T10:30:14.577858Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:30:14.577862Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/geometry/wallhaven-g8x697.jpg" added="2024-01-09T10:30:27.840759Z" modified="2024-01-09T10:30:27.840765Z" visited="2024-01-09T10:30:27.840760Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:30:27.840762Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/interior/clay-banks-0hG9jeO74-w-unsplash.jpg" added="2024-01-09T10:30:39.967562Z" modified="2024-01-09T10:30:39.967574Z" visited="2024-01-09T10:30:39.967565Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:30:39.967569Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/industrial/leo-fosdal-TgWWeaTAXCM-unsplash.jpg" added="2024-01-09T10:31:42.151908Z" modified="2024-01-09T10:31:42.151918Z" visited="2024-01-09T10:31:42.151910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:31:42.151913Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/apeiros/abandoned_buildings_1.png" added="2024-01-09T10:31:55.154776Z" modified="2024-01-09T10:31:55.154780Z" visited="2024-01-09T10:31:55.154777Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:31:55.154778Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/apocalypse/kanistra-studio-1-lasunrise.jpg" added="2024-01-09T10:33:36.425143Z" modified="2024-01-09T10:33:36.425149Z" visited="2024-01-09T10:33:36.425144Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:33:36.425146Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/decay/adrian-trinkaus-ICw7ZkUo9Ic-unsplash.jpg" added="2024-01-09T10:34:47.106262Z" modified="2024-01-09T10:34:47.106266Z" visited="2024-01-09T10:34:47.106262Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:34:47.106264Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/animated/anime-school-girl-watching-the-sky-at-the-train-station-moewalls-com.mp4" added="2024-01-09T10:36:13.838703Z" modified="2024-01-09T10:36:13.838708Z" visited="2024-01-09T10:36:13.838704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/vlc --started-from-file %U&apos;" modified="2024-01-09T10:36:13.838706Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/halloween/freestocks-y_dCjaRWthY-unsplash.jpg" added="2024-01-09T10:36:39.628059Z" modified="2024-01-09T10:36:39.628067Z" visited="2024-01-09T10:36:39.628061Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:36:39.628064Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/lightbulb/black-pendent-lamps.jpg" added="2024-01-09T10:36:47.911455Z" modified="2024-01-09T10:36:47.911465Z" visited="2024-01-09T10:36:47.911457Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:36:47.911460Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Pictures/walls-main/monochrome/1jznxzg7jaw81.jpg" added="2024-01-09T10:42:14.821578Z" modified="2024-01-09T10:42:14.821582Z" visited="2024-01-09T10:42:14.821579Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gwenview %U&apos;" modified="2024-01-09T10:42:14.821580Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/github-recovery-codes.txt" added="2024-01-09T10:57:39.632769Z" modified="2024-01-09T10:57:39.632791Z" visited="2024-01-09T10:57:39.632780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-09T10:57:39.632786Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/.config/hypr/wallpapers" added="2024-01-09T10:59:20.904755Z" modified="2024-01-09T10:59:20.904763Z" visited="2024-01-09T10:59:20.904756Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2024-01-09T10:59:20.904759Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/boo-grub-master/boo/theme.txt" added="2024-01-09T11:18:53.190619Z" modified="2024-01-09T11:19:01.418492Z" visited="2024-01-09T11:18:53.190619Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;kate -b %U&apos;" modified="2024-01-09T11:19:01.418489Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/mehercraft-main/theme.txt" added="2024-01-09T11:26:58.248033Z" modified="2024-01-09T11:32:13.808294Z" visited="2024-01-09T11:26:58.248034Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;kate -b %U&apos;" modified="2024-01-09T11:32:13.808292Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/meher/Downloads/mehercraft-main1/theme.txt" added="2024-01-09T11:31:41.581273Z" modified="2024-01-09T11:31:41.581278Z" visited="2024-01-09T11:31:41.581274Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;kate -b %U&apos;" modified="2024-01-09T11:31:41.581276Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

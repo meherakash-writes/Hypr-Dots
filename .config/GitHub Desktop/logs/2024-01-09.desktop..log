@@ -1,0 +1,126 @@
+2024-01-09T10:52:27.275Z - info: [ui] [AppStore] loading 0 repositories from store
+2024-01-09T10:52:27.645Z - info: [ui] launching: 3.3.6-linux3 (Linux 6.6.8-2-MANJARO)
+2024-01-09T10:52:27.674Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2024-01-09T10:52:27.687Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-01-09T10:52:27.825Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-01-09T10:52:28.033Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-01-09T10:52:28.066Z - info: [ui] Opt in reported.
+2024-01-09T10:52:28.089Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-01-09T10:52:30.099Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2024-01-09T10:52:30.103Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-01-09T10:52:30.113Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=a847fe9b-e602-4330-9268-04c84dd71671
+2024-01-09T10:52:30.121Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2024-01-09T10:52:31.755Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2024-01-09T10:58:21.234Z - info: [main] Received possible protocol arguments: 3
+2024-01-09T10:58:21.235Z - info: [main] Processing protocol url
+2024-01-09T10:58:21.318Z - info: [ui] [Dispatcher] requesting authenticated user
+2024-01-09T10:58:21.329Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2024-01-09T10:58:21.356Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2024-01-09T10:58:23.287Z - info: [ui] [SignInStore] account resolved
+2024-01-09T10:58:23.294Z - info: [ui] [AppStore] adding account meherakash-writes (Hi There! I am Akash! ) to store
+2024-01-09T10:58:23.312Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2024-01-09T10:58:23.511Z - error: [ui] Error adding account 'meherakash-writes'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2024-01-09T10:58:23.559Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-01-09T11:01:25.435Z - info: [ui] [AppStore] adding repository at /home/meher/.config/hypr/wallpapers to store
+2024-01-09T11:02:56.515Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 89.260s)
+2024-01-09T11:02:59.747Z - info: [ui] Executing createCommit: git commit -F - (took 3.208s)
+2024-01-09T11:03:03.677Z - info: [ui] Executing getChangesFiles: git log e209454366bb134fbec533fc6a78a4b3d7dafab8 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 3.702s)
+2024-01-09T11:03:27.863Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-01-09T11:03:27.883Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=cda81e0d-ffb9-4b1c-98e6-3d9a83a03d68
+2024-01-09T11:03:39.148Z - info: [main] Received possible protocol arguments: 3
+2024-01-09T11:03:39.148Z - info: [main] Processing protocol url
+2024-01-09T11:03:39.177Z - info: [ui] [Dispatcher] requesting authenticated user
+2024-01-09T11:03:39.863Z - info: [main] Received possible protocol arguments: 2
+2024-01-09T11:03:39.877Z - info: [main] Processing protocol url
+2024-01-09T11:03:40.656Z - info: [ui] [SignInStore] account resolved
+2024-01-09T11:03:40.663Z - info: [ui] [AppStore] adding account meherakash-writes (Hi There! I am Akash! ) to store
+2024-01-09T11:03:40.700Z - error: [ui] Error adding account 'meherakash-writes'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2024-01-09T11:03:50.551Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-01-09T11:03:50.565Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=2bf23665-d658-44ff-8f1e-171b414f460d
+2024-01-09T11:03:56.316Z - info: [main] Received possible protocol arguments: 3
+2024-01-09T11:03:56.319Z - info: [main] Processing protocol url
+2024-01-09T11:03:56.328Z - info: [ui] [Dispatcher] requesting authenticated user
+2024-01-09T11:03:56.750Z - info: [main] Received possible protocol arguments: 2
+2024-01-09T11:03:56.768Z - info: [main] Processing protocol url
+2024-01-09T11:03:57.807Z - info: [ui] [SignInStore] account resolved
+2024-01-09T11:03:57.807Z - info: [ui] [AppStore] adding account meherakash-writes (Hi There! I am Akash! ) to store
+2024-01-09T11:03:57.854Z - error: [ui] Error adding account 'meherakash-writes'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2024-01-09T11:06:17.858Z - info: [ui] [AppStore] loading 1 repositories from store
+2024-01-09T11:06:18.423Z - info: [ui] launching: 3.3.6-linux3 (Linux 6.6.8-2-MANJARO)
+2024-01-09T11:06:18.428Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2024-01-09T11:06:20.094Z - info: [ui] Stats reported.
+2024-01-09T11:06:21.692Z - info: [ui] Executing getChangesFiles: git log e209454366bb134fbec533fc6a78a4b3d7dafab8 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 3.651s)
+2024-01-09T11:06:38.633Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-01-09T11:06:38.660Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=c827af59-510e-4a6b-8498-7f832d978d63
+2024-01-09T11:06:41.232Z - info: [main] Received possible protocol arguments: 3
+2024-01-09T11:06:41.234Z - info: [main] Processing protocol url
+2024-01-09T11:06:41.243Z - info: [ui] [Dispatcher] requesting authenticated user
+2024-01-09T11:06:41.843Z - info: [main] Received possible protocol arguments: 2
+2024-01-09T11:06:42.828Z - info: [ui] [SignInStore] account resolved
+2024-01-09T11:06:42.829Z - info: [ui] [AppStore] adding account meherakash-writes (Hi There! I am Akash! ) to store
+2024-01-09T11:06:42.882Z - error: [ui] Error adding account 'meherakash-writes'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2024-01-09T11:07:00.217Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-01-09T11:07:00.226Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=27967df3-a1c4-404e-894e-cee6cf44a942
+2024-01-09T11:07:02.757Z - info: [main] Received possible protocol arguments: 3
+2024-01-09T11:07:02.758Z - info: [main] Processing protocol url
+2024-01-09T11:07:02.761Z - info: [ui] [Dispatcher] requesting authenticated user
+2024-01-09T11:07:03.374Z - info: [main] Received possible protocol arguments: 2
+2024-01-09T11:07:03.431Z - info: [main] Processing protocol url
+2024-01-09T11:07:04.328Z - info: [ui] [SignInStore] account resolved
+2024-01-09T11:07:04.331Z - info: [ui] [AppStore] adding account meherakash-writes (Hi There! I am Akash! ) to store
+2024-01-09T11:07:04.374Z - error: [ui] Error adding account 'meherakash-writes'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2024-01-09T11:07:16.694Z - info: [ui] [Timing] Action 'checkout branch from list' for 'wallpapers' took 0.001s
+2024-01-09T11:07:43.152Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-01-09T11:07:43.164Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=1ff9eca8-0d7e-4c83-8cef-3731b609e650
+2024-01-09T11:07:45.772Z - info: [main] Received possible protocol arguments: 3
+2024-01-09T11:07:45.780Z - info: [main] Processing protocol url
+2024-01-09T11:07:45.780Z - info: [ui] [Dispatcher] requesting authenticated user
+2024-01-09T11:07:46.414Z - info: [main] Received possible protocol arguments: 2
+2024-01-09T11:07:47.857Z - info: [ui] [SignInStore] account resolved
+2024-01-09T11:07:47.857Z - info: [ui] [AppStore] adding account meherakash-writes (Hi There! I am Akash! ) to store
+2024-01-09T11:07:47.932Z - error: [ui] Error adding account 'meherakash-writes'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2024-01-09T11:09:03.069Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-01-09T11:09:03.084Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=6f7baf4d-01ef-48a8-97a0-eaef75d44968
+2024-01-09T11:09:05.697Z - info: [main] Received possible protocol arguments: 3
+2024-01-09T11:09:05.697Z - info: [main] Processing protocol url
+2024-01-09T11:09:05.699Z - info: [ui] [Dispatcher] requesting authenticated user
+2024-01-09T11:09:06.202Z - info: [main] Received possible protocol arguments: 2
+2024-01-09T11:09:06.237Z - info: [main] Processing protocol url
+2024-01-09T11:09:07.831Z - info: [ui] [SignInStore] account resolved
+2024-01-09T11:09:07.837Z - info: [ui] [AppStore] adding account meherakash-writes (Hi There! I am Akash! ) to store
+2024-01-09T11:09:32.780Z - info: [ui] Subscribed 'meherakash-writes' to Alive channel
+2024-01-09T11:13:56.357Z - info: [ui] Executing push: git -c credential.helper= push origin main --set-upstream --progress (took 260.733s)
+2024-01-09T11:13:57.573Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.121s)
+2024-01-09T11:13:58.853Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.263s)
+2024-01-09T11:14:01.266Z - info: [ui] [BranchPruner] No branches to prune.
+2024-01-09T16:16:58.860Z - info: [ui] [AppStore] loading 1 repositories from store
+2024-01-09T16:16:59.006Z - info: [ui] [AppStore] found account: meherakash-writes (Hi There! I am Akash! )
+2024-01-09T16:16:59.452Z - info: [ui] [BranchPruner] Last prune took place 5 hours ago - skipping
+2024-01-09T16:17:01.203Z - info: [ui] Subscribed 'meherakash-writes' to Alive channel
+2024-01-09T16:17:01.989Z - info: [ui] launching: 3.3.6-linux3 (Linux 6.6.8-2-MANJARO)
+2024-01-09T16:17:02.000Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2024-01-09T16:17:02.326Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 2.498s)
+2024-01-09T16:17:03.625Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.293s)
+2024-01-09T16:17:12.240Z - info: [ui] Executing getChangesFiles: git log e209454366bb134fbec533fc6a78a4b3d7dafab8 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 12.432s)
+2024-01-09T16:17:15.031Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: wallpapers - meherakash-writes (has token)
+2024-01-09T16:17:16.693Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.575s)
+2024-01-09T16:17:17.947Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.236s)
+2024-01-09T16:17:29.370Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/meherakash-writes/Hypr-Dots.git - meherakash-writes (has token)
+2024-01-09T16:17:30.914Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/meherakash-writes/Hypr-Dots.git /home/meher/Documents/GitHub/Hypr-Dots (took 1.456s)
+2024-01-09T16:17:30.957Z - info: [ui] [AppStore] adding repository at /home/meher/Documents/GitHub/Hypr-Dots to store
+2024-01-09T16:17:31.492Z - info: [ui] [BranchPruner] Last prune took place 5 hours ago - skipping
+2024-01-09T16:17:33.083Z - info: [ui] [BranchPruner] No branches to prune.
+2024-01-09T16:18:04.417Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Hypr-Dots - meherakash-writes (has token)
+2024-01-09T16:18:05.841Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 1.389s)
+2024-01-09T16:18:07.044Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.176s)
+2024-01-09T16:18:08.077Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.019s)
+2024-01-09T16:18:16.794Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.8s of which 0.0s paused, total 0.8s
+2024-01-09T16:19:25.642Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Hypr-Dots - meherakash-writes (has token)
+2024-01-09T16:19:26.717Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.046s)
+2024-01-09T16:19:27.733Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.007s)

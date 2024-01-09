@@ -1,0 +1,40 @@
+[[hyprland-git]]
+url = "https://github.com/canihavesomecoffee/udis86.git"
+commit = "5336633af70f3917760a6d441ff02d93477b0c86"
+
+[[hyprland-git]]
+url = "https://github.com/hyprwm/Hyprland.git"
+commit = "f92a86af5367778a752ac2a0e9b32afc2e10fe2f"
+
+[[hyprland-git]]
+url = "https://github.com/hyprwm/hyprland-protocols.git"
+commit = "0c2ce70625cb30aef199cb388f99e19a61a6ce03"
+
+[[hyprland-git]]
+url = "https://github.com/wolfpld/tracy.git"
+commit = "a9288cd7594caced17899dda208b0d376b20d892"
+
+[[hyprland-git]]
+url = "https://gitlab.freedesktop.org/wlroots/wlroots.git"
+commit = "48721bca656556606275a5e776066a2f00822e92"
+
+[[pokemon-colorscripts-git]]
+url = "https://gitlab.com/phoneybadger/pokemon-colorscripts.git"
+commit = "0483c85b93362637bdd0632056ff986c07f30868"
+
+[[spdlog-git]]
+url = "https://github.com/gabime/spdlog.git"
+branch = "v1.x"
+commit = "1ef8d3ce348daf5d580e27fc68e91628ce42c1f4"
+
+[[swaylock-effects-git]]
+url = "https://github.com/jirutka/swaylock-effects.git"
+commit = "496059a8565c2d5eed672c2e5bc5e1edd14b3de8"
+
+[[tty-clock-git]]
+url = "https://github.com/xorg62/tty-clock.git"
+commit = "f2f847cf2cc2949c8a8b7779a778f366d3743474"
+
+[[waybar-mpris-git]]
+url = "https://git.hrfee.pw/hrfee/waybar-mpris"
+commit = "485ec0ec0af80a0d63c10e94aebfc59b16aab46b"

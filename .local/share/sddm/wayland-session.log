@@ -1,0 +1,126 @@
+/home/meher/.config/hypr/autostart: line 4: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: No such file or directory
+discover_other_daemon: 1discover_other_daemon: 1rm: cannot remove '/var/run/user/1000/swww.socket': No such file or directory
+16:09:05 [0m[34m[INFO] [0m(main) Initialization succeeded! Starting main loop...
+/home/meher/.config/hypr/autostart: line 51: nm-applet: command not found
+/home/meher/.config/hypr/autostart: line 50: blueman-applet: command not found
+/home/meher/.config/hypr/autostart: line 29: swaync: command not found
+/home/meher/.config/hypr/autostart: line 57: libinput-gestures-setup: command not found
+Failed to spawn cliphist: No such file or directoryxdg-desktop-portal-hyprland: no process found
+xdg-desktop-portal: no process found
+/home/meher/.config/hypr/autostart: line 67: /usr/lib/xdg-desktop-portal-hyprland: No such file or directory
+
+(/usr/lib/xdg-desktop-portal:633): xdg-desktop-portal-WARNING **: 21:39:09.670: No skeleton to export
+
+(com.github.neithern.g4music:587): Gtk-WARNING **: 21:39:09.867: Unknown key gtk-modules in /home/meher/.config/gtk-4.0/settings.ini
+
+(com.github.neithern.g4music:587): Adwaita-WARNING **: 21:39:10.714: Using GtkSettings:gtk-application-prefer-dark-theme with libadwaita is unsupported. Please use AdwStyleManager:color-scheme instead.
+
+(appindicator.py:591): Gtk-WARNING **: 21:39:13.070: Theme parsing error: gtk.css:86:23: Unit is missing.
+
+(appindicator.py:591): Gtk-WARNING **: 21:39:13.070: Theme parsing error: gtk.css:145:23: Unit is missing.
+
+(appindicator.py:591): Gtk-WARNING **: 21:39:13.071: Theme parsing error: gtk.css:148:23: Unit is missing.
+
+(appindicator.py:591): Gtk-WARNING **: 21:39:13.071: Theme parsing error: gtk.css:170:23: Unit is missing.
+
+(appindicator.py:591): Gtk-WARNING **: 21:39:13.071: Theme parsing error: gtk.css:174:23: Unit is missing.
+Error calling StartServiceByName for org.freedesktop.Notifications: Timeout was reached
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+Failed to spawn cliphist: No such file or directory
+(wofi:5800): Gtk-WARNING **: 21:43:46.440: Theme parsing error: gtk.css:86:23: Unit is missing.
+
+(wofi:5800): Gtk-WARNING **: 21:43:46.441: Theme parsing error: gtk.css:145:23: Unit is missing.
+
+(wofi:5800): Gtk-WARNING **: 21:43:46.441: Theme parsing error: gtk.css:148:23: Unit is missing.
+
+(wofi:5800): Gtk-WARNING **: 21:43:46.441: Theme parsing error: gtk.css:170:23: Unit is missing.
+
+(wofi:5800): Gtk-WARNING **: 21:43:46.441: Theme parsing error: gtk.css:174:23: Unit is missing.
+[009 21:43:49.312714] [glfw error 65544]: process_desktop_settings: failed with error: [org.freedesktop.DBus.Error.UnknownMethod] No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Failed to spawn cliphist: No such file or directoryFailed to spawn cliphist: No such file or directory
+(wofi:10846): Gtk-WARNING **: 21:48:45.829: Theme parsing error: gtk.css:86:23: Unit is missing.
+
+(wofi:10846): Gtk-WARNING **: 21:48:45.829: Theme parsing error: gtk.css:145:23: Unit is missing.
+
+(wofi:10846): Gtk-WARNING **: 21:48:45.829: Theme parsing error: gtk.css:148:23: Unit is missing.
+
+(wofi:10846): Gtk-WARNING **: 21:48:45.829: Theme parsing error: gtk.css:170:23: Unit is missing.
+
+(wofi:10846): Gtk-WARNING **: 21:48:45.829: Theme parsing error: gtk.css:174:23: Unit is missing.
+
+(wofi:18732): Gtk-WARNING **: 21:50:31.392: Theme parsing error: gtk.css:86:23: Unit is missing.
+
+(wofi:18732): Gtk-WARNING **: 21:50:31.393: Theme parsing error: gtk.css:145:23: Unit is missing.
+
+(wofi:18732): Gtk-WARNING **: 21:50:31.393: Theme parsing error: gtk.css:148:23: Unit is missing.
+
+(wofi:18732): Gtk-WARNING **: 21:50:31.393: Theme parsing error: gtk.css:170:23: Unit is missing.
+
+(wofi:18732): Gtk-WARNING **: 21:50:31.395: Theme parsing error: gtk.css:174:23: Unit is missing.
+
+(nemo:18888): Gtk-WARNING **: 21:50:33.469: Theme parsing error: gtk.css:86:23: Unit is missing.
+
+(nemo:18888): Gtk-WARNING **: 21:50:33.469: Theme parsing error: gtk.css:145:23: Unit is missing.
+
+(nemo:18888): Gtk-WARNING **: 21:50:33.469: Theme parsing error: gtk.css:148:23: Unit is missing.
+
+(nemo:18888): Gtk-WARNING **: 21:50:33.469: Theme parsing error: gtk.css:170:23: Unit is missing.
+
+(nemo:18888): Gtk-WARNING **: 21:50:33.469: Theme parsing error: gtk.css:174:23: Unit is missing.
+
+** (nemo:18888): WARNING **: 21:50:34.145: Current gtk theme is not known to have nemo support (Tsuki) - checking...
+
+(nemo:18888): Gtk-WARNING **: 21:50:34.145: Theme parsing error: gtk.css:86:23: Unit is missing.
+
+(nemo:18888): Gtk-WARNING **: 21:50:34.146: Theme parsing error: gtk.css:145:23: Unit is missing.
+
+(nemo:18888): Gtk-WARNING **: 21:50:34.146: Theme parsing error: gtk.css:148:23: Unit is missing.
+
+(nemo:18888): Gtk-WARNING **: 21:50:34.146: Theme parsing error: gtk.css:170:23: Unit is missing.
+
+(nemo:18888): Gtk-WARNING **: 21:50:34.146: Theme parsing error: gtk.css:174:23: Unit is missing.
+
+(nemo:18888): Gtk-WARNING **: 21:50:34.661: Creating a portal monitor failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+Failed to spawn cliphist: No such file or directory
+(nemo:18888): Gdk-WARNING **: 21:51:12.567: Error writing selection data: Error writing to file descriptor: Broken pipe
+
+** (nemo:18888): WARNING **: 21:51:19.597: Could not inhibit power management: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Name "org.gnome.SessionManager" does not exist

@@ -1,0 +1,33 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+2 screens: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAQAAAAAAAADIAAADt/wCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAAA7AAADtwAAAO8A///+AAAC3wAAA7cAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/wallpapers-main/Nord/charizard-rainbow-nord.png
+File10[$e]=$HOME/Pictures/walls-main/painting/4RFJhJW.png
+File2[$e]=$HOME/Downloads/wallpapers-main/Nord/wallpaper.jpg
+File3[$e]=$HOME/Downloads/wallpapers-main/Nord/nord-aquarium.png
+File4[$e]=$HOME/Downloads/wallpapers-main/Pixelart/gruvbox_image4.png
+File5[$e]=$HOME/Downloads/wallpapers-main/Pixelart/gruvbox_image44.png
+File6[$e]=$HOME/.config/hypr/wallpapers/1kIhwGj.jpeg
+File7[$e]=$HOME/.config/hypr/wallpapers/00.png
+File8[$e]=$HOME/.config/hypr/wallpapers/2.jpg
+File9[$e]=$HOME/.config/hypr/wallpapers/2 - 3QPUW4E.png
+Name1[$e]=charizard-rainbow-nord.png
+Name10[$e]=4RFJhJW.png
+Name2[$e]=wallpaper.jpg
+Name3[$e]=nord-aquarium.png
+Name4[$e]=gruvbox_image4.png
+Name5[$e]=gruvbox_image44.png
+Name6[$e]=1kIhwGj.jpeg
+Name7[$e]=00.png
+Name8[$e]=2.jpg
+Name9[$e]=2 - 3QPUW4E.png

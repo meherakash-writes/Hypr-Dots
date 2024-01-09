@@ -1,0 +1,36 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:DeleteThumbnailSetting_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update
+
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+2 screens: Window-Maximized=true
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA60AAAPNAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/walls-main/monochrome/pier.jpeg
+File10[$e]=$HOME/Pictures/walls-main/monochrome/yannick-pulver-5i664o1oY4c-unsplash.jpg
+File2[$e]=$HOME/Pictures/walls-main/monochrome/tauben.jpg
+File3[$e]=$HOME/Pictures/walls-main/monochrome/time_passing_denis_lomme.jpg
+File4[$e]=$HOME/Pictures/walls-main/monochrome/tomasz-sroka-CewT9iFBcgE-unsplash.jpg
+File5[$e]=$HOME/Pictures/walls-main/monochrome/tqs1NJm - Imgur.png
+File6[$e]=$HOME/Pictures/walls-main/monochrome/undefined - Imgur(18).jpg
+File7[$e]=$HOME/Pictures/walls-main/monochrome/wallhaven-3ke6ey.jpg
+File8[$e]=$HOME/Pictures/walls-main/monochrome/wallhaven-5dlr78.jpg
+File9[$e]=$HOME/Pictures/walls-main/monochrome/wallpaper.jpg
+Name1[$e]=pier.jpeg
+Name10[$e]=yannick-pulver-5i664o1oY4c-unsplash.jpg
+Name2[$e]=tauben.jpg
+Name3[$e]=time_passing_denis_lomme.jpg
+Name4[$e]=tomasz-sroka-CewT9iFBcgE-unsplash.jpg
+Name5[$e]=tqs1NJm - Imgur.png
+Name6[$e]=undefined - Imgur(18).jpg
+Name7[$e]=wallhaven-3ke6ey.jpg
+Name8[$e]=wallhaven-5dlr78.jpg
+Name9[$e]=wallpaper.jpg
+
+[SideBar]
+InformationSplitterSizes=206,247

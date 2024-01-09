@@ -1,0 +1,18 @@
+[ExtractDialog]
+2 screens: Window-Maximized=true
+DirHistory[$e]=$HOME/Downloads/,$HOME/,$HOME/Pictures/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Pictures/
+detailViewIconSize=16
+
+[MainWindow]
+2 screens: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAQAAAAEAAACHAAADzfwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAAAlAAADzQAAAHAA///+AAADIAAAA80AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled

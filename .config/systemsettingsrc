@@ -1,0 +1,10 @@
+[MainWindow]
+2 screens: Height=700
+2 screens: Width=1020
+2 screens: Window-Maximized=true
+2 screens: XPosition=2326
+2 screens: YPosition=210
+HDMI-1 eDP-1=HDMI-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

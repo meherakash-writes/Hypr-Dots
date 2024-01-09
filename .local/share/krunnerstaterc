@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=5 exec:///usr/bin/kitty,1 exec:///usr/bin/latte-dock
+
+[PlasmaRunnerManager][History]
+05864d77-b53e-4f48-a14e-9f65432f31df=kit,kitt,kitty,ki,l
